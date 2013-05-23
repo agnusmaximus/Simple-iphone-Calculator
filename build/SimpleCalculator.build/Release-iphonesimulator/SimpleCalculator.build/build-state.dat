@@ -1,0 +1,1911 @@
+TSimpleCalculator
+v7
+r0
+t334643452.861196
+cCheck dependencies
+cProcessInfoPlistFile "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/Info.plist" SimpleCalculator-Info.plist
+cCompileXIB "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/MainWindow.xib"
+cCompileXIB "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/SimpleCalculatorViewController.xib"
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/orbitron.ttf orbitron.ttf
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/bg.jpg bg.jpg
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/bg2.jpg bg2.jpg
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/0.png 0.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/1.png 1.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/2.png 2.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/3.png 3.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/4.png 4.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/5.png 5.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/6.png 6.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/7.png 7.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/8.png 8.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/9.png 9.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/buttonSelectedState.png buttonSelectedState.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/dark_blue_divider.jpg dark_blue_divider.jpg
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/arrow.png arrow.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/arrow2.png arrow2.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/arrow3.png arrow3.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/arrow4.png arrow4.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/divider.jpg divider.jpg
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/icon.png icon.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/cool-background-red.jpg cool-background-red.jpg
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/dark-background.jpg dark-background.jpg
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/bg5_1.jpg bg5_1.jpg
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/LED.PNG LED.PNG
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/LED2.png LED2.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/Default.png Default.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/Frame.png Frame.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/folder.png folder.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/search-icon.png search-icon.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/nex.png nex.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/TB_selection_lasso2.png TB_selection_lasso2.png
+cCpResource build/Release-iphonesimulator/SimpleCalculator.app/circle.png circle.png
+cProcessPCH /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch.gch SimpleCalculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/main.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SimpleCalculatorAppDelegate.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SimpleCalculatorViewController.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/Brain.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Brain.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/CalcState.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalcState.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/CalculatorConnect.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalculatorConnect.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/LEDScreen.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/LEDScreen.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyButton.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SpinalCord.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SpinalCord.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/Sound.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Sound.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyLabel.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyLabel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/ButtonMorphs.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/ButtonMorphs.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/FootPrints.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FootPrints.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MagicBox.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MagicBox.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SearchNum.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchNum.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SearchPrints.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchPrints.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyPatternBrush.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyPatternBrush.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyScrollView.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyScrollView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyEditableButton.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyEditableButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyTranslucentView.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyTranslucentView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyBBar.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyBBar.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyMenu.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyMenu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/EquationConnect.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationConnect.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/EquationBrain.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationBrain.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/FunctionBrain.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionBrain.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/Distinguish.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Distinguish.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/EditableStorageButton.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EditableStorageButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/FunctionView.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/SimpleCalculator" normal i386
+cGenerateDSYMFile "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app.dSYM" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/SimpleCalculator"
+cTouch "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC1222F0000000000000A23
+t1287725615
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004CC121DB00000000000004FE
+t1287725531
+s1278
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004E2891260000000000D00CA0
+t1311281446
+s13634720
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/../../../untitled.xib
+c000000004DFD6E8C0000000000001116
+t1308454540
+s4374
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/0.png
+c000000004DD6F9610000000000000710
+t1305934177
+s1808
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/1.png
+c000000004DD6F96500000000000005BB
+t1305934181
+s1467
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/2.png
+c000000004DD6F95500000000000007C7
+t1305934165
+s1991
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/3.png
+c000000004DD6F96900000000000007E9
+t1305934185
+s2025
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/4.png
+c000000004DD6F96E000000000000076D
+t1305934190
+s1901
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/5.png
+c000000004DD6F9720000000000000742
+t1305934194
+s1858
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/6.png
+c000000004DD6F95900000000000007C9
+t1305934169
+s1993
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/7.png
+c000000004DD6F95D00000000000006F2
+t1305934173
+s1778
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/8.png
+c000000004DD6F975000000000000077A
+t1305934197
+s1914
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/9.png
+c000000004DD6F9790000000000000794
+t1305934201
+s1940
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/../VariableViewController.h
+c000000004DF2A4FB00000000000000FA
+t1307747579
+s250
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/../VariableViewController.m
+c000000004DF2A62100000000000000D0
+t1307747873
+s208
+i"VariableViewController.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Brain.h
+c000000004DEB0CAF00000000000003C7
+t1307249839
+s967
+i<UIKit/UIKit.h>
+i<math.h>
+i"Macros.h"
+i"CalcState.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Brain.m
+c000000004DE5ABAA0000000000001512
+t1306897322
+s5394
+i"Brain.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/ButtonMorphs.h
+c000000004DFD5F5000000000000002B2
+t1308450640
+s690
+i<UIKit/UIKit.h>
+i"Macros.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/ButtonMorphs.m
+c000000004DFD5F9A00000000000009B4
+t1308450714
+s2484
+i"Buttonmorphs.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalcState.h
+c000000004DFD6C93000000000000028E
+t1308454035
+s654
+i<UIKit/UIKit.h>
+i"Macros.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalcState.m
+c000000004DFD6C9A0000000000000310
+t1308454042
+s784
+i"CalcState.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalculatorConnect.h
+c000000004DEEDCCF0000000000000493
+t1307499727
+s1171
+i<UIKit/UIKit.h>
+i"LEDScreen.h"
+i"SimpleCalculatorViewController.h"
+i"Macros.h"
+i"Brain.h"
+i"SpinalCord.h"
+i"CalcState.h"
+i"Sound.h"
+i"ButtonMorphs.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalculatorConnect.m
+c000000004DEEE9540000000000002928
+t1307502932
+s10536
+i"CalculatorConnect.h"
+i"FootPrints.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Distinguish.h
+c000000004DF3173A0000000000000122
+t1307776826
+s290
+i<UIKit/UIKit.h>
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Distinguish.m
+c000000004DF3A88E000000000000057A
+t1307814030
+s1402
+i"Distinguish.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EditableStorageButton.h
+c000000004DF3A2890000000000000105
+t1307812489
+s261
+i<UIKit/UIKit.h>
+i"MyEditableButton.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EditableStorageButton.m
+c000000004DF3F27F000000000000060A
+t1307832959
+s1546
+i"EditableStorageButton.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationBrain.h
+c000000004DF1D9B10000000000000542
+t1307695537
+s1346
+i<UIKit/UIKit.h>
+i"FunctionBrain.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationBrain.m
+c000000004DF3A0C70000000000003B89
+t1307812039
+s15241
+i"EquationBrain.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationConnect.h
+c000000004DF3F3290000000000000299
+t1307833129
+s665
+i<UIKit/UIKit.h>
+i"LEDScreen.h"
+i"Macros.h"
+i"EquationBrain.h"
+i"ButtonMorphs.h"
+i"CalcState.h"
+i"Sound.h"
+i"FootPrints.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationConnect.m
+c000000004DF538150000000000001178
+t1307916309
+s4472
+i"EquationConnect.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FootPrints.h
+c000000004DF3FF6600000000000008D0
+t1307836262
+s2256
+i<UIKit/UIKit.h>
+i<CoreGraphics/CoreGraphics.h>
+i"CalculatorConnect.h"
+i"Macros.h"
+i"MyButton.h"
+i"MyLabel.h"
+i"CalcState.h"
+i"Sound.h"
+i"SearchPrints.h"
+i"MyPatternBrush.h"
+i"MyScrollView.h"
+i"MyEditableButton.h"
+i"LEDScreen.h"
+i"Distinguish.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FootPrints.m
+c000000004DF410310000000000005F33
+t1307840561
+s24371
+i"FootPrints.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionBrain.h
+c000000004DEFFEC40000000000000182
+t1307573956
+s386
+i<UIKit/UIKit.h>
+i"SpinalCord.h"
+i"Macros.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionBrain.m
+c000000004DF0344B0000000000000858
+t1307587659
+s2136
+i"FunctionBrain.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionView.h
+c000000004DFD76B90000000000000244
+t1308456633
+s580
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"MyScrollView.h"
+i"MyButton.h"
+i"CalcState.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionView.m
+c000000004DFD7DA50000000000000DC0
+t1308458405
+s3520
+i"FunctionView.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/LEDScreen.h
+c000000004DF30F3100000000000004A1
+t1307774769
+s1185
+i<UIKit/UIKit.h>
+i"string.h"
+i"CalcState.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/LEDScreen.m
+c000000004DF312EB0000000000000E61
+t1307775723
+s3681
+i"LEDScreen.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Macros.h
+c000000004DFD5834000000000000098F
+t1308448820
+s2447
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MagicBox.h
+c000000004DF3A2CF00000000000008FA
+t1307812559
+s2298
+i<UIKit/UIKit.h>
+i"MyLabel.h"
+i"MyButton.h"
+i"CalcState.h"
+i"Sound.h"
+i"Macros.h"
+i"SearchPrints.h"
+i"LEDScreen.h"
+i"Distinguish.h"
+i"EditableStorageButton.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MagicBox.m
+c000000004DF53D140000000000002E69
+t1307917588
+s11881
+i"MagicBox.h"
+i"CalculatorConnect.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyBBar.h
+c000000004DF3A54B0000000000000289
+t1307813195
+s649
+i<UIKit/UIKit.h>
+i"MyMenu.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyBBar.m
+c000000004DF3051A0000000000000C37
+t1307772186
+s3127
+i"MyBBar.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyButton.h
+c000000004DEC0C000000000000000194
+t1307315200
+s404
+i<UIKit/UIKit.h>
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyButton.m
+c000000004DEC9D9B00000000000007F0
+t1307352475
+s2032
+i"MyButton.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyEditableButton.h
+c000000004DF3A4D10000000000000259
+t1307813073
+s601
+i<UIKit/UIKit.h>
+i"MyButton.h"
+i"MyTranslucentView.h"
+i"MyLabel.h"
+i"Distinguish.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyEditableButton.m
+c000000004DF7F95C0000000000000C79
+t1308096860
+s3193
+i"MyEditableButton.h"
+i"FootPrints.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyLabel.h
+c000000004DEC22560000000000000102
+t1307320918
+s258
+i<Foundation/Foundation.h>
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyLabel.m
+c000000004DEC235D00000000000001EA
+t1307321181
+s490
+i"MyLabel.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyMenu.h
+c000000004DF301EE0000000000000249
+t1307771374
+s585
+i<UIKit/UIKit.h>
+i"CalcState.h"
+i"MyButton.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyMenu.m
+c000000004DF301F400000000000007DE
+t1307771380
+s2014
+i"MyMenu.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyPatternBrush.h
+c000000004DEC9D200000000000000215
+t1307352352
+s533
+i<UIKit/UIKit.h>
+i"MyButton.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyPatternBrush.m
+c000000004DED41980000000000000897
+t1307394456
+s2199
+i"MyPatternBrush.h"
+i"FootPrints.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyScrollView.h
+c000000004DEDDF1D000000000000014B
+t1307434781
+s331
+i<UIKit/UIKit.h>
+i"MyButton.h"
+i"MyEditableButton.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyScrollView.m
+c000000004DEDE008000000000000044D
+t1307435016
+s1101
+i"MyScrollView.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MySwitchableButton.h
+c000000004DF2AA660000000000000147
+t1307748966
+s327
+i<UIKit/UIKit.h>
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MySwitchableButton.m
+c000000004DF2AA1000000000000000D6
+t1307748880
+s214
+i"MySwitchableButton.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyTranslucentView.h
+c000000004DEC8EAB0000000000000118
+t1307348651
+s280
+i<Foundation/Foundation.h>
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyTranslucentView.m
+c000000004DEC8EF400000000000001B5
+t1307348724
+s437
+i"MyTranslucentView.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchNum.h
+c000000004DEA0F3700000000000003C2
+t1307184951
+s962
+i<UIKit/UIKit.h>
+i"MyButton.h"
+i"MyLabel.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchNum.m
+c000000004DFD681A0000000000000D3B
+t1308452890
+s3387
+i"SearchNum.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchPrints.h
+c000000004DF307760000000000000159
+t1307772790
+s345
+i<UIKit/UIKit.h>
+i"SearchNum.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchPrints.m
+c000000004DEA0FD7000000000000068C
+t1307185111
+s1676
+i"SearchPrints.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorAppDelegate.h
+c000000004DD787F60000000000000206
+t1305970678
+s518
+i<UIKit/UIKit.h>
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorAppDelegate.m
+c000000004DE87A340000000000000AEB
+t1307081268
+s2795
+i"SimpleCalculatorAppDelegate.h"
+i"SimpleCalculatorViewController.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorViewController.h
+c000000004DFD586B0000000000000577
+t1308448875
+s1399
+i<UIKit/UIKit.h>
+i<CoreGraphics/CoreGraphics.h>
+i"MagicBox.h"
+i"LEDScreen.h"
+i"FootPrints.h"
+i"MyScrollView.h"
+i"MyButton.h"
+i"CalcState.h"
+i"Macros.h"
+i"ButtonMorphs.h"
+i"FunctionView.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorViewController.m
+c000000004DFD7A6F0000000000001EF9
+t1308457583
+s7929
+i"SimpleCalculatorViewController.h"
+i"SimpleCalculatorAppDelegate.h"
+i"EquationConnect.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Sound.h
+c000000004DE5B37F0000000000000124
+t1306899327
+s292
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Sound.m
+c000000004DECB018000000000000046F
+t1307357208
+s1135
+i"Sound.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SpinalCord.h
+c000000004DEB0C9C0000000000000457
+t1307249820
+s1111
+i<UIKit/UIKit.h>
+i<math.h>
+i"Macros.h"
+i"CalcState.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SpinalCord.m
+c000000004DF13F400000000000001512
+t1307656000
+s5394
+i"SpinalCord.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/VariableMorphs.h
+c000000004DF2AA3100000000000002AF
+t1307748913
+s687
+i<UIKit/UIKit.h>
+i"CalcState.h"
+i"MySwitchableButton.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/VariableMorphs.m
+c000000004DF2AA400000000000000173
+t1307748928
+s371
+i"VariableMorphs.h"
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Default.png
+c000000004DECA88F0000000000010761
+t1307355279
+s67425
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Frame.png
+c000000004DE884F20000000000005D9A
+t1307084018
+s23962
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/LED.PNG
+c000000004DEDD6B500000000000082DC
+t1307432629
+s33500
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/LED2.png
+c000000004DE212E10000000000006486
+t1306661601
+s25734
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Landscape.xib
+c000000004DD783ED0000000000018C84
+t1305969645
+s101508
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/MainWindow.xib
+c000000004DD828DC00000000000057DC
+t1306011868
+s22492
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/SimpleCalculatorViewController.xib
+c000000004DFD6E5B00000000000231F3
+t1308454491
+s143859
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/SimpleCalculator_Prefix.pch
+c000000004DD5B72600000000000000C9
+t1305851686
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/TB_selection_lasso2.png
+c000000004DEC48540000000000000D2D
+t1307330644
+s3373
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/VariableMode.xib
+c000000004DF53E000000000000001116
+t1307917824
+s4374
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/VariableView.xib
+c000000004DF2A61A0000000000003C80
+t1307747866
+s15488
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/VariableViewController.h
+c000000004DF2A4FB00000000000000FA
+t1307747579
+s250
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/arrow.png
+c000000004DD73E2C0000000000003BB8
+t1305951788
+s15288
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/arrow2.png
+c000000004DD73F360000000000003BF8
+t1305952054
+s15352
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/arrow3.png
+c000000004DD7491A0000000000003C57
+t1305954586
+s15447
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/arrow4.png
+c000000004DD74E560000000000003083
+t1305955926
+s12419
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/bg.jpg
+c000000004DD5F0270000000000002024
+t1305866279
+s8228
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/bg2.jpg
+c000000004DD5F07F000000000000223B
+t1305866367
+s8763
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/bg5_1.jpg
+c000000004DE0B9C20000000000023C81
+t1306573250
+s146561
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app
+t1312950652
+s1360
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app.dSYM
+t1312950652
+s102
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/0.png
+t1307918883
+s1808
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/1.png
+t1307918883
+s1467
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/2.png
+t1307918883
+s1991
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/3.png
+t1307918883
+s2025
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/4.png
+t1307918883
+s1901
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/5.png
+t1307918883
+s1858
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/6.png
+t1307918883
+s1993
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/7.png
+t1307918883
+s1778
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/8.png
+t1307918883
+s1914
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/9.png
+t1307918884
+s1940
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/Default.png
+t1307918884
+s67425
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/Frame.png
+t1307918884
+s23962
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/Info.plist
+t1308420193
+s792
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/LED.PNG
+t1307918884
+s33500
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/LED2.png
+t1307918884
+s25734
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/Landscape.nib
+t1307430992
+s9178
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/MainWindow.nib
+t1307918883
+s1125
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/PkgInfo
+t1308420193
+s8
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/SimpleCalculator
+t1312950652
+s182580
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/SimpleCalculatorViewController.nib
+t1308454493
+s12279
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/TB_selection_lasso2.png
+t1307918884
+s3373
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/VariableMode.nib
+t2
+s0
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/VariableView.nib
+t1307747867
+s821
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/arrow.png
+t1307918884
+s15288
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/arrow2.png
+t1307918884
+s15352
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/arrow3.png
+t1307918884
+s15447
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/arrow4.png
+t1307918884
+s12419
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/bg.jpg
+t1307918883
+s8228
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/bg2.jpg
+t1307918883
+s8763
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/bg5_1.jpg
+t1307918884
+s146561
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/buttonSelectedState.png
+t1307918884
+s2316
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/circle.png
+t1307918884
+s1091
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/cool-background-red.jpg
+t1307918884
+s188115
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/dark-background.jpg
+t1307918884
+s10619
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/dark_blue_divider.jpg
+t1307918884
+s2148
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/divider.jpg
+t1307918884
+s2148
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/folder.png
+t1307918884
+s4482
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/icon.png
+t1307918884
+s4519
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/nex.png
+t1307918884
+s2094
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/orbitron.ttf
+t1307918884
+s47256
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/search-icon.png
+t1307918884
+s2018
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/untitled.nib
+t2
+s0
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/Brain.o
+t1308454089
+s19304
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/ButtonMorphs.o
+t1308450715
+s43568
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/CalcState.o
+t1308454089
+s13132
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/CalculatorConnect.o
+t1308454089
+s57812
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/Distinguish.o
+t1307918887
+s8208
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/EditableStorageButton.o
+t1307918887
+s41284
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/EquationBrain.o
+t1308454090
+s37404
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/EquationConnect.o
+t1308454090
+s52460
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/FootPrints.o
+t1308454090
+s95284
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/FunctionBrain.o
+t1308454090
+s10984
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/FunctionView.o
+t1312950652
+s48120
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/LEDScreen.o
+t1308454089
+s51008
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MagicBox.o
+t1308454090
+s77336
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyBBar.o
+t1308454090
+s49928
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyButton.o
+t1307918885
+s44028
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyEditableButton.o
+t1308454090
+s49248
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyLabel.o
+t1307918885
+s38660
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyMenu.o
+t1308454090
+s47016
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyPatternBrush.o
+t1308454090
+s50720
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyScrollView.o
+t1307918886
+s43688
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MySwitchableButton.o
+t2
+s0
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyTranslucentView.o
+t1307918886
+s38168
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SearchNum.o
+t1308453240
+s50880
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SearchPrints.o
+t1307918886
+s41816
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SimpleCalculator.LinkFileList
+c000000004DFD594A00000000000013EA
+t1308449098
+s5098
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SimpleCalculatorAppDelegate.o
+t1308456733
+s54024
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SimpleCalculatorViewController.o
+t1308457688
+s65112
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/Sound.o
+t1307918885
+s8852
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SpinalCord.o
+t1308454089
+s18564
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/VariableMorphs.o
+t2
+s0
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/VariableViewController.o
+t1307747875
+s5288
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/main.o
+t1307918885
+s6352
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/buttonSelectedState.png
+c000000004DD736D2000000000000090C
+t1305949906
+s2316
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/circle.png
+c000000004DEDDAB50000000000000443
+t1307433653
+s1091
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/cool-background-red.jpg
+c000000004DE09B47000000000002DED3
+t1306565447
+s188115
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/dark-background.jpg
+c000000004DE09D94000000000000297B
+t1306566036
+s10619
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/dark_blue_divider.jpg
+c000000004DD83F6D0000000000000864
+t1306017645
+s2148
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/divider.jpg
+c000000004DD98F720000000000000864
+t1306103666
+s2148
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/folder.png
+c000000004DE825E00000000000001182
+t1307059680
+s4482
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/icon.png
+c000000004DED756300000000000011A7
+t1307407715
+s4519
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/main.m
+c000000004DD5B7260000000000000163
+t1305851686
+s355
+i<UIKit/UIKit.h>
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/nex.png
+c000000004DE93E7E000000000000082E
+t1307131518
+s2094
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/orbitron.ttf
+c000000004B17D2CA000000000000B898
+t1259852490
+s47256
+
+N/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/search-icon.png
+c000000004DE92A4500000000000007E2
+t1307126341
+s2018
+
+N/var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-dijkfefahlixodfhosiudbimzash/SimpleCalculator_Prefix.pch.gch
+t1307430993
+s15113424
+
+N/var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch.gch
+t1307918885
+s15113424
+
+NSimpleCalculator-Info.plist
+c000000004DF7F9BA000000000000045C
+t1308096954
+s1116
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334643450#334643451#0(0"0(0#1#0"32088628383449192#0"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/Brain.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Brain.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330146889.105154
+e330146889.238234
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/Brain.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Brain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Brain.m330146889#330146889#0(0"0(0#0#86"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Brain.m8627232544#2537"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Brain.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/Brain.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/ButtonMorphs.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/ButtonMorphs.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330143515.827164
+e330143516.004793
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/ButtonMorphs.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/ButtonMorphs.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/ButtonMorphs.m330143515#330143516#0(0"0(0#0#93"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/ButtonMorphs.m8623372192#2551"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/ButtonMorphs.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/ButtonMorphs.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/CalcState.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalcState.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330146889.238316
+e330146889.399673
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/CalcState.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalcState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalcState.m330146889#330146889#0(0"0(0#0#90"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalcState.m8621710592#2545"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalcState.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/CalcState.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/CalculatorConnect.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalculatorConnect.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330146889.340998
+e330146889.608900
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/CalculatorConnect.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalculatorConnect.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalculatorConnect.m330146889#330146889#0(0"0(0#0#98"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalculatorConnect.m8628891008#2561"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/CalculatorConnect.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/CalculatorConnect.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/Distinguish.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Distinguish.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329611687.182701
+e329611687.242954
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/Distinguish.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Distinguish.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Distinguish.m329611687#329611687#0(0"0(0#0#92"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Distinguish.m8626572416#2549"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Distinguish.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/Distinguish.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/EditableStorageButton.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EditableStorageButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329611687.243039
+e329611687.323241
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/EditableStorageButton.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EditableStorageButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EditableStorageButton.m329611687#329611687#0(0"0(0#0#102"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EditableStorageButton.m8623543520#2569"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EditableStorageButton.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/EditableStorageButton.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/EquationBrain.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationBrain.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330146890.544756
+e330146890.878643
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/EquationBrain.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationBrain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationBrain.m330146890#330146890#0(0"0(0#0#94"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationBrain.m8627664416#2553"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationBrain.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/EquationBrain.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/EquationConnect.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationConnect.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330146890.484733
+e330146890.687714
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/EquationConnect.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationConnect.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationConnect.m330146890#330146890#0(0"0(0#0#96"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationConnect.m8607264640#2557"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationConnect.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/EquationConnect.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/FootPrints.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FootPrints.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330146889.609284
+e330146890.303946
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/FootPrints.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FootPrints.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FootPrints.m330146889#330146890#0(0"0(0#0#91"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FootPrints.m8608558912#2547"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FootPrints.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/FootPrints.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/FunctionBrain.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionBrain.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330146890.687794
+e330146890.786357
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/FunctionBrain.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionBrain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionBrain.m330146890#330146890#0(0"0(0#0#94"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionBrain.m8621737472#2553"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionBrain.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/FunctionBrain.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/FunctionView.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s334643451.236450
+e334643452.240764
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/FunctionView.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionView.m334643451#334643452#0(0"0(0#0#93"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionView.m7020114989044286464#2551"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/FunctionView.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/FunctionView.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/LEDScreen.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/LEDScreen.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330146889.399761
+e330146889.539592
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/LEDScreen.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/LEDScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/LEDScreen.m330146889#330146889#0(0"0(0#0#90"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/LEDScreen.m8627226912#2545"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/LEDScreen.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/LEDScreen.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MagicBox.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MagicBox.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330146889.682162
+e330146890.077186
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MagicBox.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MagicBox.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MagicBox.m330146889#330146890#0(0"0(0#0#89"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MagicBox.m8607943136#2543"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MagicBox.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MagicBox.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyBBar.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyBBar.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330146890.304124
+e330146890.425171
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyBBar.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyBBar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyBBar.m330146890#330146890#0(0"0(0#0#87"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyBBar.m8601454432#2539"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyBBar.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyBBar.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyButton.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329611685.706206
+e329611685.809991
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyButton.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyButton.m329611685#329611685#0(0"0(0#0#89"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyButton.m8604175552#2543"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyButton.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyButton.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyEditableButton.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyEditableButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330146890.275562
+e330146890.484563
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyEditableButton.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyEditableButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyEditableButton.m330146890#330146890#0(0"0(0#0#97"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyEditableButton.m8626939840#2559"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyEditableButton.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyEditableButton.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyLabel.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyLabel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329611685.891294
+e329611685.960307
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyLabel.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyLabel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyLabel.m329611685#329611685#0(0"0(0#0#88"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyLabel.m8612572320#2541"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyLabel.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyLabel.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyMenu.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyMenu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330146890.425250
+e330146890.544665
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyMenu.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyMenu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyMenu.m330146890#330146890#0(0"0(0#0#87"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyMenu.m8621811552#2539"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyMenu.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyMenu.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyPatternBrush.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyPatternBrush.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330146890.077442
+e330146890.275389
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyPatternBrush.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyPatternBrush.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyPatternBrush.m330146890#330146890#0(0"0(0#0#95"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyPatternBrush.m8626683136#2555"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyPatternBrush.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyPatternBrush.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyScrollView.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyScrollView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329611686.567703
+e329611686.652912
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyScrollView.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyScrollView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyScrollView.m329611686#329611686#0(0"0(0#0#93"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyScrollView.m8610810240#2551"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyScrollView.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyScrollView.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MySwitchableButton.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MySwitchableButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyTranslucentView.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyTranslucentView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329611686.716156
+e329611686.790253
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyTranslucentView.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyTranslucentView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyTranslucentView.m329611686#329611686#0(0"0(0#0#98"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyTranslucentView.m8597910816#2561"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/MyTranslucentView.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/MyTranslucentView.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SearchNum.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchNum.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330146040.710598
+e330146040.894347
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SearchNum.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchNum.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchNum.m330146040#330146040#0(0"0(0#0#90"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchNum.m8628447808#2545"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchNum.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SearchNum.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SearchPrints.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchPrints.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329611686.478594
+e329611686.567607
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SearchPrints.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchPrints.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchPrints.m329611686#329611686#0(0"0(0#0#93"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchPrints.m8624235104#2551"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SearchPrints.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SearchPrints.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SimpleCalculatorAppDelegate.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330149533.170578
+e330149533.324989
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SimpleCalculatorAppDelegate.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorAppDelegate.m330149533#330149533#0(0"0(0#0#108"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorAppDelegate.m8630537088#2581"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorAppDelegate.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SimpleCalculatorAppDelegate.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SimpleCalculatorViewController.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330150487.996549
+e330150488.357220
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SimpleCalculatorViewController.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorViewController.m330150487#330150488#0(0"0(0#0#111"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorViewController.m8632509120#2587"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SimpleCalculatorViewController.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SimpleCalculatorViewController.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/Sound.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Sound.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329611685.810088
+e329611685.891164
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/Sound.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Sound.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Sound.m329611685#329611685#0(0"0(0#0#86"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Sound.m8623769088#2537"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/Sound.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/Sound.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SpinalCord.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SpinalCord.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330146889.539767
+e330146889.682032
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SpinalCord.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SpinalCord.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SpinalCord.m330146889#330146889#0(0"0(0#0#91"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SpinalCord.m8621709984#2547"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/SpinalCord.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SpinalCord.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/VariableMorphs.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/VariableMorphs.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/VariableViewController.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/../VariableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329440675.685415
+e329440675.725029
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/VariableViewController.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/../VariableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/../VariableViewController.m329440675#329440675#0(0"0(0#0#106"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/../VariableViewController.m8620425152#2574"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/../VariableViewController.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/VariableViewController.o"0#
+
+CCompileC build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/main.o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s329611685.216035
+e329611685.268126
+r1
+xCompileC
+xbuild/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/main.o
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/main.m329611685#329611685#0(0"0(0#0#77"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/main.m8627622912#2527"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/main.m" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/../../../untitled.xib"
+r0
+
+CCompileXIB "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Landscape.xib"
+s329123791.777737
+e329123792.618332
+r1
+xCompileXIB
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Landscape.xib
+lSLF07#2@24"CompileXIB Landscape.xib329123791#329123792#0(0"0(0#0#84"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Landscape.xib8603658336#681"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/Landscape.nib" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Landscape.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/MainWindow.xib"
+s329611683.544257
+e329611683.951244
+r1
+xCompileXIB
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib329611683#329611683#0(0"0(0#0#85"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/MainWindow.xib8624256736#683"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/MainWindow.nib" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/SimpleCalculatorViewController.xib"
+s330147292.914046
+e330147293.762220
+r1
+xCompileXIB
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/SimpleCalculatorViewController.xib
+lSLF07#2@45"CompileXIB SimpleCalculatorViewController.xib330147292#330147293#0(0"0(0#0#105"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/SimpleCalculatorViewController.xib8630808224#723"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/SimpleCalculatorViewController.nib" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/SimpleCalculatorViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/VariableMode.xib"
+r0
+
+CCompileXIB "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/VariableView.xib"
+s329440666.938077
+e329440667.291013
+r1
+xCompileXIB
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/VariableView.xib
+lSLF07#2@27"CompileXIB VariableView.xib329440666#329440667#0(0"0(0#0#87"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/VariableView.xib8620499296#687"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/VariableView.nib" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/VariableView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/0.png 0.png
+s329611683.953061
+e329611683.993061
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/0.png
+x0.png
+lSLF07#2@10"Copy 0.png329611683#329611684#0(0"0(0#0#76"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/0.png8600155328#597"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/0.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/1.png 1.png
+s329611683.953805
+e329611683.981501
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/1.png
+x1.png
+lSLF07#2@10"Copy 1.png329611683#329611683#0(0"0(0#0#76"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/1.png8599950496#597"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/1.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/2.png 2.png
+s329611683.954351
+e329611683.981606
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/2.png
+x2.png
+lSLF07#2@10"Copy 2.png329611683#329611683#0(0"0(0#0#76"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/2.png8590051808#597"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/2.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/3.png 3.png
+s329611683.954871
+e329611683.993228
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/3.png
+x3.png
+lSLF07#2@10"Copy 3.png329611683#329611684#0(0"0(0#0#76"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/3.png8617939712#597"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/3.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/4.png 4.png
+s329611683.955373
+e329611683.993309
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/4.png
+x4.png
+lSLF07#2@10"Copy 4.png329611683#329611684#0(0"0(0#0#76"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/4.png8617750048#597"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/4.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/5.png 5.png
+s329611683.955879
+e329611683.993391
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/5.png
+x5.png
+lSLF07#2@10"Copy 5.png329611683#329611684#0(0"0(0#0#76"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/5.png8617464096#597"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/5.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/6.png 6.png
+s329611683.981678
+e329611683.992975
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/6.png
+x6.png
+lSLF07#2@10"Copy 6.png329611683#329611684#0(0"0(0#0#76"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/6.png8617290336#597"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/6.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/7.png 7.png
+s329611683.984189
+e329611683.993144
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/7.png
+x7.png
+lSLF07#2@10"Copy 7.png329611683#329611684#0(0"0(0#0#76"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/7.png8616045344#597"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/7.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/8.png 8.png
+s329611683.985889
+e329611683.996967
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/8.png
+x8.png
+lSLF07#2@10"Copy 8.png329611683#329611684#0(0"0(0#0#76"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/8.png8615821920#597"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/8.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/9.png 9.png
+s329611683.993454
+e329611684.013937
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/9.png
+x9.png
+lSLF07#2@10"Copy 9.png329611683#329611684#0(0"0(0#0#76"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/9.png8615632448#597"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/9.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/Default.png Default.png
+s329611684.020430
+e329611684.051832
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png329611684#329611684#0(0"0(0#0#82"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Default.png8610112544#603"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Default.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/Frame.png Frame.png
+s329611684.022224
+e329611684.031121
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/Frame.png
+xFrame.png
+lSLF07#2@14"Copy Frame.png329611684#329611684#0(0"0(0#0#80"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Frame.png8608611264#601"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Frame.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/LED.PNG LED.PNG
+s329611684.016075
+e329611684.030951
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/LED.PNG
+xLED.PNG
+lSLF07#2@12"Copy LED.PNG329611684#329611684#0(0"0(0#0#78"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/LED.PNG8610744576#599"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/LED.PNG" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/LED2.png LED2.png
+s329611684.018340
+e329611684.031036
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/LED2.png
+xLED2.png
+lSLF07#2@13"Copy LED2.png329611684#329611684#0(0"0(0#0#79"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/LED2.png8610424736#600"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/LED2.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/TB_selection_lasso2.png TB_selection_lasso2.png
+s329611684.033129
+e329611684.051641
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/TB_selection_lasso2.png
+xTB_selection_lasso2.png
+lSLF07#2@28"Copy TB_selection_lasso2.png329611684#329611684#0(0"0(0#0#94"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/TB_selection_lasso2.png8606781088#615"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/TB_selection_lasso2.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/arrow.png arrow.png
+s329611683.994956
+e329611684.014191
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/arrow.png
+xarrow.png
+lSLF07#2@14"Copy arrow.png329611683#329611684#0(0"0(0#0#80"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/arrow.png8615280256#601"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/arrow.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/arrow2.png arrow2.png
+s329611683.995436
+e329611684.004313
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/arrow2.png
+xarrow2.png
+lSLF07#2@15"Copy arrow2.png329611683#329611684#0(0"0(0#0#81"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/arrow2.png8615005536#602"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/arrow2.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/arrow3.png arrow3.png
+s329611683.995916
+e329611684.014276
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/arrow3.png
+xarrow3.png
+lSLF07#2@15"Copy arrow3.png329611683#329611684#0(0"0(0#0#81"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/arrow3.png8614728384#602"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/arrow3.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/arrow4.png arrow4.png
+s329611683.996416
+e329611684.014356
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/arrow4.png
+xarrow4.png
+lSLF07#2@15"Copy arrow4.png329611683#329611684#0(0"0(0#0#81"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/arrow4.png8614378720#602"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/arrow4.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/bg.jpg bg.jpg
+s329611683.952015
+e329611683.992875
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/bg.jpg
+xbg.jpg
+lSLF07#2@11"Copy bg.jpg329611683#329611684#0(0"0(0#0#77"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/bg.jpg8605879776#598"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/bg.jpg" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/bg2.jpg bg2.jpg
+s329611683.952539
+e329611683.981374
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/bg2.jpg
+xbg2.jpg
+lSLF07#2@12"Copy bg2.jpg329611683#329611683#0(0"0(0#0#78"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/bg2.jpg8603641152#599"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/bg2.jpg" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/bg5_1.jpg bg5_1.jpg
+s329611684.014413
+e329611684.030854
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/bg5_1.jpg
+xbg5_1.jpg
+lSLF07#2@14"Copy bg5_1.jpg329611684#329611684#0(0"0(0#0#80"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/bg5_1.jpg8612095264#601"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/bg5_1.jpg" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/buttonSelectedState.png buttonSelectedState.png
+s329611683.993991
+e329611684.004102
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/buttonSelectedState.png
+xbuttonSelectedState.png
+lSLF07#2@28"Copy buttonSelectedState.png329611683#329611684#0(0"0(0#0#94"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/buttonSelectedState.png8615508160#615"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/buttonSelectedState.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/circle.png circle.png
+s329611684.034078
+e329611684.051734
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/circle.png
+xcircle.png
+lSLF07#2@15"Copy circle.png329611684#329611684#0(0"0(0#0#81"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/circle.png8606492544#602"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/circle.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/cool-background-red.jpg cool-background-red.jpg
+s329611684.007120
+e329611684.031207
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/cool-background-red.jpg
+xcool-background-red.jpg
+lSLF07#2@28"Copy cool-background-red.jpg329611684#329611684#0(0"0(0#0#94"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/cool-background-red.jpg8613105184#615"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/cool-background-red.jpg" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/dark-background.jpg dark-background.jpg
+s329611684.012208
+e329611684.031293
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/dark-background.jpg
+xdark-background.jpg
+lSLF07#2@24"Copy dark-background.jpg329611684#329611684#0(0"0(0#0#90"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/dark-background.jpg8612608160#611"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/dark-background.jpg" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/dark_blue_divider.jpg dark_blue_divider.jpg
+s329611683.994479
+e329611684.014108
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/dark_blue_divider.jpg
+xdark_blue_divider.jpg
+lSLF07#2@26"Copy dark_blue_divider.jpg329611683#329611684#0(0"0(0#0#92"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/dark_blue_divider.jpg8615403232#613"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/dark_blue_divider.jpg" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/divider.jpg divider.jpg
+s329611683.997024
+e329611684.004223
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/divider.jpg
+xdivider.jpg
+lSLF07#2@16"Copy divider.jpg329611683#329611684#0(0"0(0#0#82"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/divider.jpg8613882208#603"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/divider.jpg" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/folder.png folder.png
+s329611684.025196
+e329611684.031376
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/folder.png
+xfolder.png
+lSLF07#2@15"Copy folder.png329611684#329611684#0(0"0(0#0#81"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/folder.png8608300544#602"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/folder.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/icon.png icon.png
+s329611684.004375
+e329611684.014022
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png329611684#329611684#0(0"0(0#0#79"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/icon.png8613330976#600"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/icon.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/nex.png nex.png
+s329611684.031435
+e329611684.051536
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/nex.png
+xnex.png
+lSLF07#2@12"Copy nex.png329611684#329611684#0(0"0(0#0#78"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/nex.png8607065728#599"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/nex.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/orbitron.ttf orbitron.ttf
+s329611683.951324
+e329611684.013834
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/orbitron.ttf
+xorbitron.ttf
+lSLF07#2@17"Copy orbitron.ttf329611683#329611684#0(0"0(0#0#83"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/orbitron.ttf8612578400#604"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/orbitron.ttf" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CCpResource build/Release-iphonesimulator/SimpleCalculator.app/search-icon.png search-icon.png
+s329611684.026884
+e329611684.051933
+r1
+xCpResource
+xbuild/Release-iphonesimulator/SimpleCalculator.app/search-icon.png
+xsearch-icon.png
+lSLF07#2@20"Copy search-icon.png329611684#329611684#0(0"0(0#0#86"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/search-icon.png8607929504#607"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/search-icon.png" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+
+CGenerateDSYMFile "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app.dSYM" "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/SimpleCalculator"
+s334643452.754416
+e334643452.859073
+r1
+xGenerateDSYMFile
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app.dSYM
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/SimpleCalculator
+lSLF07#2@140"GenerateDSYMFile build/Release-iphonesimulator/SimpleCalculator.app.dSYM build/Release-iphonesimulator/SimpleCalculator.app/SimpleCalculator334643452#334643452#0(0"0(0#0#138"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/SimpleCalculator8602222976#516"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/SimpleCalculator" -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app.dSYM"0#
+
+CLd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/SimpleCalculator" normal i386
+s334643452.240843
+e334643452.754286
+r1
+xLd
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/SimpleCalculator
+xnormal
+xi386
+lSLF07#2@143"Link /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/SimpleCalculator334643452#334643452#0(0"0(0#0#0"8602231040#1169"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" -filelist "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/Objects-normal/i386/SimpleCalculator.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework QuartzCore -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/SimpleCalculator"0#
+
+CProcessInfoPlistFile "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/Info.plist" SimpleCalculator-Info.plist
+s330112993.544909
+e330112993.567751
+r1
+xProcessInfoPlistFile
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/Info.plist
+xSimpleCalculator-Info.plist
+lSLF07#2@35"Process SimpleCalculator-Info.plist330112993#330112993#0(0"0(0#0#98"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/SimpleCalculator-Info.plist3417784901363262976#612"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SimpleCalculator-Info.plist -genpkginfo "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app/Info.plist"0#
+
+CProcessPCH /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-dijkfefahlixodfhosiudbimzash/SimpleCalculator_Prefix.pch.gch SimpleCalculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s329123792.618673
+e329123793.181234
+r1
+xProcessPCH
+x/var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-dijkfefahlixodfhosiudbimzash/SimpleCalculator_Prefix.pch.gch
+xSimpleCalculator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile SimpleCalculator_Prefix.pch329123792#329123793#0(0"0(0#0#98"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/SimpleCalculator_Prefix.pch8608507456#2374"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/SimpleCalculator_Prefix.pch" -o /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-dijkfefahlixodfhosiudbimzash/SimpleCalculator_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch.gch SimpleCalculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s329611684.431637
+e329611685.215868
+r1
+xProcessPCH
+x/var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch.gch
+xSimpleCalculator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile SimpleCalculator_Prefix.pch329611684#329611685#0(0"0(0#0#98"/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/SimpleCalculator_Prefix.pch8626172704#2374"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-generated-files.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-own-target-headers.hmap" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-all-target-headers.hmap" -iquote "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/SimpleCalculator-project-headers.hmap" "-F/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/include" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources/i386" "-I/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/SimpleCalculator.build/Release-iphonesimulator/SimpleCalculator.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/SimpleCalculator_Prefix.pch" -o /var/folders/nM/nMvr6OuTG+iEdYcUIKRjH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleCalculator_Prefix-ebaxvohjivhnhygnawdicntrpekf/SimpleCalculator_Prefix.pch.gch0#
+
+CTouch "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"
+s334643452.859150
+e334643452.861154
+r1
+xTouch
+x/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app
+lSLF07#2@127"Touch /Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app334643452#334643452#0(0"0(0#0#0"8608146144#357"    cd "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/build/Release-iphonesimulator/SimpleCalculator.app"0#
+

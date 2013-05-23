@@ -1,0 +1,2 @@
+/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationBrain.m: In function '-[EquationBrain addUp:and:]':
+/Users/maxlam/Desktop/Iphone Calculators/TestBin/SimpleCalculator copy/Classes/EquationBrain.m:235: warning: unused variable 'partial'
